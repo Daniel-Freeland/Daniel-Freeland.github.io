@@ -9,11 +9,6 @@ I'm interested in pursuing a career in data science and machine learning. I have
 
 I'm excited to blog my journey on GitHub.com
 
-# Get in Touch
-
-<ul>
-<li><a href="https://github.com/{{site.github_Daniel_Freeland }}">GitHub</a></li>
-</ul>
 
 # projects
 <ul>
