@@ -10,7 +10,7 @@ I'm interested in pursuing a career in data science and machine learning. I have
 I'm excited to blog my journey on GitHub.com
 
 
-# projects
+# Projects
 <ul>
 <li><a href="https://github.com/Daniel-Freeland/forecasting_tidyverse/blob/main/Forecasting_Gas_Prices_Project.md/">Forecasting Gas Prices Project</a></li>
 <ul>
