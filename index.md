@@ -12,6 +12,10 @@ I'm excited to blog my journey on GitHub.com
 # Get in Touch
 
 <ul>
+<<<<<<< HEAD
+=======
+<li><a href="https://linkedin.com/{{site.linkedin_www.linkedin.com/in/daniel-freeland-35b902214}}">linkedin</a></li>
+>>>>>>> 2d3036193d88700be55a3be0e1b073084bb58d36
 
 <li><a href="https://github.com/{{site.github_Daniel_Freeland }}">GitHub</a></li>
 </ul>
