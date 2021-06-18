@@ -12,7 +12,11 @@ I'm excited to blog my journey on GitHub.com
 # Get in Touch
 
 <ul>
-<li>,a href="https://twitter.com/{{site.twitter_@1djfreeland}}">Twitter</a></li>
 
 <li><a href="https://github.com/{{site.github_Daniel_Freeland }}">GitHub</a></li>
 </ul>
+
+# projects
+<ul>
+<li><a href="https://github.com/Daniel-Freeland/forecasting_tidyverse/blob/main/Forecasting_Gas_Prices_Project.md/">Forecasting Gas Prices Project</a></li>
+<ul>
